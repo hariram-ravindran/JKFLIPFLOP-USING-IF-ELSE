@@ -45,6 +45,7 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 Developed by:Hariram R 
 RegisterNumber:24005836
+```
 module JKFLIPFLOPUSINGIFELSE(q, qb,j,k,clock,reset);
 input j,k,clock,reset;
 output reg q, qb;
@@ -76,6 +77,7 @@ end
 end
 end
 endmodule
+```
 
 **RTL LOGIC FOR FLIPFLOPS**
 ![Screenshot 2024-12-03 175817](https://github.com/user-attachments/assets/7d954193-8420-49b2-a7df-2c7e2525f148)
